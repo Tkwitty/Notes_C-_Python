@@ -6,5 +6,5 @@ many questions about programing languages
 
 
 
-[外部链接显示](www.baidu.com "hiahiahia")
+[外部链接显示](语言基础.md "hiahiahia")
 
