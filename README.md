@@ -1,4 +1,4 @@
-# Notes_C-_Python
+# Notes_Cpp_Python
 many questions about programing languages 
 
 
@@ -7,4 +7,8 @@ many questions about programing languages
 
 
 ####[语言基础 cpp&py](语言基础.md)
+
+####[算法-数据结构](算法-数据结构.md)
+
+####[自动摘要 & LDA学习笔记](自动摘要-学习笔记.md)
 
